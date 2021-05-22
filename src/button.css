@@ -1,0 +1,58 @@
+
+button {
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    display: flex;
+    justify-content: center;
+    width: 76px;
+    height: 89px;
+    font-size: calc(10px + 2vmin);
+    align-items: center;
+  }
+  
+  button > img {
+    width: 100%;
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 0;
+    padding: 0; /* reset */
+    padding-bottom: 100%;
+  }
+  
+  .icon-fire {
+    background-image: url("./img/Icon awesome-fire.svg");
+    
+  }
+  
+  .icon-mtn {
+    background-image: url("./img/Icon awesome-mountain.svg");
+  }
+  
+  .icon-thermo {
+    background-image: url("./img/Icon ionic-ios-thermometer.svg");
+  }
+  
+  .icon-bike {
+    background-image: url("./img/Icon metro-directions-bike.svg");
+  }
+  
+  
+  
+  .background-135 {
+    background-image: url("./img/Rectangle 135.png");
+  }
+  
+  .background-136 {
+    background-image: url("./img/Rectangle 136.png");
+  }
+  
+  .background-137 {
+    background-image: url("./img/Rectangle 137.png");
+  }
+  
+  .background-207 {
+    background-image: url("./img/Rectangle 207.png");
+  }
+  
